@@ -1,5 +1,5 @@
 {
-  "name": "wzzrd-docker-sat6",
+  "name": "wzzrd-docker",
   "version": "0.1.0",
   "author": "Maxim Burgerhout",
   "summary": "Setup docker as a compute resource for Sat6",
