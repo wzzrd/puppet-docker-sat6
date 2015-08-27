@@ -1,7 +1,7 @@
 {
-  "name": "wzzrd-docker",
+  "name": "wzzrd-docker-sat6",
   "version": "0.1.0",
-  "author": "wzzrd",
+  "author": "Maxim Burgerhout",
   "summary": "Setup docker as a compute resource for Sat6",
   "license": "Apache-2.0",
   "source": "https://github.com/wzzrd/puppet-docker-sat6.git",
